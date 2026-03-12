@@ -7,7 +7,7 @@
 <ul>
   <li>🎓 Pre-final year B.Tech CSE student at PDEU</li>
   <li>💻 Competitive Programmer | Problem Solver</li>
-  <li>🌱 Learning MERN Stack Development</li>
+  <li>🌱 Exploring MERN Stack Development</li>
   <li>🚀 Turning ideas into innovations through code</li>
   <li>⚡ Fun fact I think I'm funny</li>
 </ul>
@@ -75,4 +75,4 @@
   </li>
 </ul>
 
-<p>🚀 Passionate about building scalable, efficient, and secure enterprise applications!</p>
+<p>🚀 <b>Passionate about building scalable, efficient, and secure enterprise applications!</p></b></p>
