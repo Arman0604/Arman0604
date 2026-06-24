@@ -5,7 +5,7 @@
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>🎓 Pre-final year B.Tech CSE student at PDEU</li>
+  <li>🎓 Final year B.Tech CSE student at PDEU</li>
   <li>💻 Competitive Programmer | Problem Solver</li>
   <li>🌱 Exploring MERN Stack Development</li>
   <li>🚀 Turning ideas into innovations through code</li>
